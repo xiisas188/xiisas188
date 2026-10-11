@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm an AI Student! 👋
 
-<!--
-**xiisas188/xiisas188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
 
-Here are some ideas to get you started:
+I'm a third-year **Artificial Intelligence student at Utrecht University** in the Netherlands.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about exploring how intelligent systems work and turning theoretical knowledge into practical applications.
+
+My main interests include:
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Natural Language Processing (NLP)
+- 📊 Data Science & Data Analysis
+- 💻 Software Development
+
+### 🛠️ Tech Stack
+
+**Programming:** Python & C#
+
+**Areas of interest:** Machine Learning · NLP · Data Analysis · Algorithms
+
+**Tools:** Git · GitHub
+
+### 🚀 What I'm Currently Working On
+
+- Building personal AI and data science projects
+- Exploring machine learning models and real-world applications
+- Strengthening my programming and problem-solving skills
+
+### 📂 Featured Projects
+
+I'm currently building my portfolio with applications in AI, machine learning, and data science.
+
+### 🌱 My Goals
+
+I'm working towards a career in AI and technology, with a focus on gaining hands-on experience and building useful, reliable applications.
+
+### 📫 Let's Connect!
+
+[Connect with me on LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/](https://www.linkedin.com/in/sasa-lin-a2924b21a/))
+
+
