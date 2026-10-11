@@ -36,6 +36,6 @@ I'm working towards a career in AI and technology, with a focus on gaining hands
 
 ### 📫 Let's Connect!
 
-[Connect with me on LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/](https://www.linkedin.com/in/sasa-lin-a2924b21a/))
+[Connect with me on LinkedIn](https://www.linkedin.com/in/sasa-lin-a2924b21a/)
 
 
